@@ -5,7 +5,7 @@
 Iai, chega para acompanhar meu progresso na minha jornada para me tornar um Desenvolvedor front-end.
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 💾 Tecnologias e Ferramentas
 
 **No que venho trabalhando:**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,7 +19,7 @@ Iai, chega para acompanhar meu progresso na minha jornada para me tornar um Dese
 
 ---
 
-### 📌 Sobre mim
+### 🛹 Sobre mim
 
 - 🔭 **Objetivo:** No foco para me tornar um  Desenvolvedor Front-end de respeito.
 - 🌱 **Estudando:** Meu objetivo principal vem sendo dominar a estrutura, a estilização e a lógica das páginas web.
