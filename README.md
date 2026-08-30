@@ -2,8 +2,7 @@
 
 🚀 **Desenvolvedor Front-end em Construção**
 
-Estou no início da minha jornada no desenvolvimento web, focado em criar interfaces modernas, responsivas e intuitivas. Tenho grande paixão por transformar ideias e designs em códigos limpos e funcionais!
-
+Iai, chega para acompanhar meu proguesso na minha jhornada para me oranra um desenvolvedor front-end,
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -22,8 +21,8 @@ Estou no início da minha jornada no desenvolvimento web, focado em criar interf
 
 ### 📌 Sobre mim
 
-- 🔭 **Objetivo:** Conseguir minha primeira oportunidade/estágio como Desenvolvedor Front-end.
-- 🌱 **Estudando:** Aprofundando conceitos de JavaScript Assíncrono, Manipulação de DOM, Responsividade e bibliotecas modernas.
+- 🔭 **Objetivo:** No foco para me tornar um  Desenvolvedor Front-end de respeito.
+- 🌱 **Estudando:** Meu objetivo principal vem sendo dominar a estrutura, a estilização e a lógica das páginas web.
 - 💡 **Interesses:** UX/UI Design, Acessibilidade Web e Boas Práticas de Código.
 
 
@@ -37,6 +36,6 @@ Estou no início da minha jornada no desenvolvimento web, focado em criar interf
 ### 📊 Minhas Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical" height="150" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arthur-cbrl&show_icons=true&theme=radical" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cbrl O&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
 </div>
