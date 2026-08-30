@@ -2,7 +2,7 @@
 
 🚀 **Desenvolvedor Front-end em Construção**
 
-Iai, chega para acompanhar meu proguesso na minha jhornada para me oranra um desenvolvedor front-end.
+Iai, chega para acompanhar meu progresso na minha jornada para me tornar um Desenvolvedor front-end.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
