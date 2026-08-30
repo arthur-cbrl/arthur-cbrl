@@ -21,9 +21,9 @@ Iai, chega para acompanhar meu progresso na minha jornada para me tornar um Dese
 
 ### 🛹 Sobre mim
 
-- 🔭 **Objetivo:** No foco para me tornar um  Desenvolvedor Front-end de respeito.
-- 🌱 **Estudando:** Meu objetivo principal vem sendo dominar a estrutura, a estilização e a lógica das páginas web.
-- 💡 **Interesses:** UX/UI Design, Acessibilidade Web e Boas Práticas de Código.
+- 🎯 **Objetivo:** No foco para me tornar um  Desenvolvedor Front-end de respeito.
+- 👾 **Estudando:** Meu objetivo principal vem sendo dominar a estrutura, a estilização e a lógica das páginas web.
+- 🥇 **Interesses:** UX/UI Design, Acessibilidade Web e Boas Práticas de Código.
 
 
 ---
