@@ -30,7 +30,7 @@ Iai, chega para acompanhar meu progresso na minha jornada para me tornar um Dese
 
 ### 📫 Forma de contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-cabral-42053836b?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthupro14015@gmail.com)
 
 🦇
