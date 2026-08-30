@@ -1,8 +1,8 @@
-# Iai,Arthur aqui! 👋
+# Iai,Arthur aqui! 🦇
 
 🚀 **Desenvolvedor Front-end em Construção**
 
-Iai, chega para acompanhar meu proguesso na minha jhornada para me oranra um desenvolvedor front-end,
+Iai, chega para acompanhar meu proguesso na minha jhornada para me oranra um desenvolvedor front-end.
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
@@ -33,9 +33,4 @@ Iai, chega para acompanhar meu proguesso na minha jhornada para me oranra um des
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
 
-### 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arthur-cbrl&show_icons=true&theme=radical" height="150" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthur-cbrl O&layout=compact&theme=radical" height="150" alt="Linguagens mais usadas" />
-</div>
+🦇
